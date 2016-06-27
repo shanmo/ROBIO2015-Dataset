@@ -1,0 +1,3 @@
+# ROBIO2015-Dataset
+
+This is the dataset used in the `ROBIO 2015` paper titled `Google Map Aided Visual Navigation for UAVs in GPS-denied Environment`. If you use the images for research and comparison purpose, please cite our paper. Thanks!  
