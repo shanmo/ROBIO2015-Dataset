@@ -1,0 +1,6 @@
+ camera matrix
+    _M1 = (Mat_<double>(3,3) << 929.05689, 0, 622.05040,
+    							0, 928.07867, 435.84355,
+    							0, 0, 1); //intrinsic matrix assumption
+
+    _D1 = (Mat_<double>(1,5) <<  -0.34976, 0.13707, 0.00064, -0.00018, 0.00000); //Distortion matrix assumption
