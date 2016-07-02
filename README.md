@@ -1,6 +1,21 @@
-# ROBIO2015-Dataset
+# IMAV2014-Dataset
 
-This is the dataset used in the `ROBIO 2015` paper titled `Google Map Aided Visual Navigation for UAVs in GPS-denied Environment`. If you use the images for research and comparison purpose, please cite our paper. Thanks!  
+This is the aerial image sequence collected during `IMAV 2014` by `NUS UAV Research Group`.
+
+If you use the images for research and comparison purpose, please cite our papers. Thanks!  
+
+```
+@article{cui2016search,
+  title={Search and Rescue Using Multiple Drones in Post-Disaster Situation},
+  author={Cui, Jin Q and Phang, Swee King and Ang, Kevin ZY and Wang, Fei and Dong, Xiangxu and Ke, Yijie and Lai, Shupeng and Li, Kun and Li, Xiang and Lin, Jing and others},
+  journal={Unmanned Systems},
+  volume={4},
+  number={01},
+  pages={83--96},
+  year={2016},
+  publisher={World Scientific}
+}
+```
 
 ```
 @inproceedings{shan2015google,
