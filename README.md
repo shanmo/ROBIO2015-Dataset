@@ -1,6 +1,6 @@
 # IMAV2014-Dataset
 
-This is the aerial image sequence collected during `IMAV 2014` by `NUS UAV Research Group`.
+This is the aerial image sequence collected during `IMAV 2014` by [NUS UAV Research Group](http://uav.ece.nus.edu.sg/).
 
 If you use the images for research and comparison purpose, please cite our papers. Thanks!  
 
